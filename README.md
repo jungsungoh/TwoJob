@@ -190,7 +190,7 @@
 ---
 ### ⚪ 블록체인에 기록한 데이터
 
-![BlockData](기타/image/blockdata.PNG)
+<img src="기타/image/blockdata.PNG" alt="" width="80%" height="50%"/>
 ---
 ### 📚 DataBase 구조도 (ERD)
 
