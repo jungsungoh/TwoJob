@@ -51,18 +51,22 @@
 ---
 ### ✔ 주요 기능
 1. 홈페이지
+
 ![](기타/image/introduce1.gif)
 
 2. 투자 홈
 ![2.투자](기타/image/introduce2.gif)
 
 3. 쇼핑 홈
+
 ![3.쇼핑](기타/image/introduce3.gif)
 
 4. 투자 프로젝트 참여
+
 ![4.투자 참여](기타/image/introduce4.gif)
 
 5. 투자 프로젝트 오픈
+
 ![5.투자 오픈](기타/image/introduce5.gif)
 
 ---
